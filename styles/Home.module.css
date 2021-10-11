@@ -1,0 +1,26 @@
+.container {
+  padding: 0 0.5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main {
+  padding: 5rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main ul {
+  list-style:none;
+  margin: 0;
+}
+
+.main li {
+  display: inline-block;
+  margin: 20px;
+}
